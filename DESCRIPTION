@@ -23,7 +23,7 @@ RoxygenNote: 7.3.3
 Imports: digest, jsonlite, tibble
 Depends: R (>= 4.1.0)
 NeedsCompilation: no
-Packaged: 2025-10-31 11:48:03 UTC; robertovillegas-diaz
+Packaged: 2025-10-31 12:03:26 UTC; robertovillegas-diaz
 Author: Roberto Villegas-Diaz [aut, cre] (ORCID:
     <https://orcid.org/0000-0001-5036-8661>),
   Research Object community [cph]
